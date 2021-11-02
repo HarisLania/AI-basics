@@ -25,22 +25,22 @@
         -> One point crossover
     ##### 1.3 Mutation
         -> mutate
-    1.4 Post Select
+    ##### 1.4 Post Select
         -> Best select
 
 2. Genetic Operators
-    -> Make Chromosomes
+    ##### 2.0 Make Chromosomes
         -> Decode
         -> Calculate fitness
         -> Evaluate
-    -> Parent Selection
+    ##### 2.1 Parent Selection
         -> same as evolutionary
-    -> Crossover
+    ##### 2.2 Crossover
         -> One point crossover
         -> Two point crossover
-    -> Mutation
+    ##### 2.3 Mutation
         -> filp mutation
-    -> Post Select
+    ##### 2.4 Post Select
         -> same as evolutionary
 
 3. Task in which using genotypic representation with the population of 10 and getting maximum value of a function
