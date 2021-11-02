@@ -5,14 +5,14 @@
 1. Depth First Search
 2. Breadth First Search
 
-# Informed Search Algorithms
+### Informed Search Algorithms
 1. A* Search
 2. Uniform Cost Search
 
-# Heuristic Search
+### Heuristic Search
 1. Hill Climbing
 
-# Evolutionary and Genetic Alogrithms
+### Evolutionary and Genetic Alogrithms
 1. Evolution Operators
     -> Make Chromosomes
         -> Calculate fitness
