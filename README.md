@@ -14,18 +14,18 @@
 
 ### Evolutionary and Genetic Alogrithms
 1. Evolution Operators
-    -> Make Chromosomes
+    ##### 1.0 Make Chromosomes
         -> Calculate fitness
         -> Evaluate
-    -> Parent Selection
+    ##### 1.1 Parent Selection
         -> Binary tournament
         -> Best select
         -> Random select
-    -> Crossover
+    ##### 1.2 Crossover
         -> One point crossover
-    -> Mutation
+    ##### 1.3 Mutation
         -> mutate
-    -> Post Select
+    1.4 Post Select
         -> Best select
 
 2. Genetic Operators
