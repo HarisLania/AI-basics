@@ -1,7 +1,7 @@
-# AI-basics
 # Artificial Intelligence basics
 
-# Graph Traversal Algorithms
+
+### Graph Traversal Algorithms
 1. Depth First Search
 2. Breadth First Search
 
